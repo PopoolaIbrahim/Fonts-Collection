@@ -1,4 +1,4 @@
-# python Code to download Fonts
+# Python Code to download Fonts
 import requests <br>
 response = requests.get(" Font Url below ") <br>
 font_data = response.content <br>
